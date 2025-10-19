@@ -1,0 +1,3 @@
+[submodule "Wind-Power-Prediction"]
+	path = Wind-Power-Prediction
+	url = https://github.com/VishalVasoya1/Wind-Power-Prediction.git
