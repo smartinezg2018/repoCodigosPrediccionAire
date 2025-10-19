@@ -1,3 +1,6 @@
 [submodule "wind-power-forecasting-challenge"]
 	path = wind-power-forecasting-challenge
 	url = https://github.com/qcha41/wind-power-forecasting-challenge.git
+[submodule "Wind-Power-Prediction"]
+	path = Wind-Power-Prediction
+	url = https://github.com/VishalVasoya1/Wind-Power-Prediction.git
