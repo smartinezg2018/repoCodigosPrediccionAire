@@ -1,0 +1,14 @@
+artifact_uri: file:///home/choclo/Documents/repoCodigosPrediccionAire/wind-power-forcasting-new/mlruns/284003530451230930/0fb126c08a2f4e48a72e6b7786a72855/artifacts
+end_time: 1760996850369
+entry_point_name: ''
+experiment_id: '284003530451230930'
+lifecycle_stage: active
+run_id: 0fb126c08a2f4e48a72e6b7786a72855
+run_name: capricious-crane-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760996836074
+status: 4
+tags: []
+user_id: choclo

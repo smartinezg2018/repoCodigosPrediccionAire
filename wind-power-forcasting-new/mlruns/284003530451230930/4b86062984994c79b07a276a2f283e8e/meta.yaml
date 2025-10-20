@@ -1,0 +1,14 @@
+artifact_uri: file:///home/choclo/Documents/repoCodigosPrediccionAire/wind-power-forcasting-new/mlruns/284003530451230930/4b86062984994c79b07a276a2f283e8e/artifacts
+end_time: 1760997081054
+entry_point_name: ''
+experiment_id: '284003530451230930'
+lifecycle_stage: active
+run_id: 4b86062984994c79b07a276a2f283e8e
+run_name: bustling-kite-357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760997068366
+status: 4
+tags: []
+user_id: choclo

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/choclo/Documents/repoCodigosPrediccionAire/wind-power-forcasting-new/mlruns/284003530451230930/a4d46c9f96c04083b1901729293ecb6d/artifacts
+end_time: 1760996850370
+entry_point_name: ''
+experiment_id: '284003530451230930'
+lifecycle_stage: active
+run_id: a4d46c9f96c04083b1901729293ecb6d
+run_name: capable-loon-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760996835984
+status: 4
+tags: []
+user_id: choclo

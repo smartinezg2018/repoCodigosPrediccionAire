@@ -1,0 +1,14 @@
+artifact_uri: file:///home/choclo/Documents/repoCodigosPrediccionAire/wind-power-forcasting-new/mlruns/284003530451230930/9000f30831f34b3eb42848448cb5c525/artifacts
+end_time: 1760997944638
+entry_point_name: ''
+experiment_id: '284003530451230930'
+lifecycle_stage: active
+run_id: 9000f30831f34b3eb42848448cb5c525
+run_name: dashing-shrimp-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760997869802
+status: 4
+tags: []
+user_id: choclo

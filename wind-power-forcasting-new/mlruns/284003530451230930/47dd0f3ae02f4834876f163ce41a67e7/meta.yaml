@@ -1,0 +1,14 @@
+artifact_uri: file:///home/choclo/Documents/repoCodigosPrediccionAire/wind-power-forcasting-new/mlruns/284003530451230930/47dd0f3ae02f4834876f163ce41a67e7/artifacts
+end_time: 1760997162153
+entry_point_name: ''
+experiment_id: '284003530451230930'
+lifecycle_stage: active
+run_id: 47dd0f3ae02f4834876f163ce41a67e7
+run_name: fearless-crane-103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760997109655
+status: 4
+tags: []
+user_id: choclo

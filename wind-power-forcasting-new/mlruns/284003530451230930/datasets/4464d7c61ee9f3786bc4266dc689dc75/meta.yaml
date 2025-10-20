@@ -1,0 +1,10 @@
+digest: 065fcffe
+name: dataset
+profile: '{"features_cardinality": 68}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"name\": \"0\", \"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"float64\", \"shape\": [-1, 1, 19]}}, {\"name\": \"1\",
+  \"type\": \"tensor\", \"tensor-spec\": {\"dtype\": \"float64\", \"shape\": [-1]}}]",
+  "targets": null}}'
+source: '{"tags": {"mlflow.user": "choclo", "mlflow.source.name": "/home/choclo/Documents/repoCodigosPrediccionAire/env/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/choclo/Documents/repoCodigosPrediccionAire/wind-power-forcasting-new/mlruns/284003530451230930/a7bd49f8e3b2484cbec8650be409ac20/artifacts
+end_time: 1760997850878
+entry_point_name: ''
+experiment_id: '284003530451230930'
+lifecycle_stage: active
+run_id: a7bd49f8e3b2484cbec8650be409ac20
+run_name: mercurial-whale-671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760997838778
+status: 4
+tags: []
+user_id: choclo

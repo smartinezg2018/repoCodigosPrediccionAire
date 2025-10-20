@@ -1,0 +1,14 @@
+artifact_uri: file:///home/choclo/Documents/repoCodigosPrediccionAire/wind-power-forcasting-new/mlruns/284003530451230930/ed9da7bfeb344112920ee0146694f89f/artifacts
+end_time: 1760996961515
+entry_point_name: ''
+experiment_id: '284003530451230930'
+lifecycle_stage: active
+run_id: ed9da7bfeb344112920ee0146694f89f
+run_name: resilient-cow-269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760996947842
+status: 4
+tags: []
+user_id: choclo

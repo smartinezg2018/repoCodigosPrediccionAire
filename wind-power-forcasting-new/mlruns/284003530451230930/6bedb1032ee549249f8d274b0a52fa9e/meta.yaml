@@ -1,0 +1,14 @@
+artifact_uri: file:///home/choclo/Documents/repoCodigosPrediccionAire/wind-power-forcasting-new/mlruns/284003530451230930/6bedb1032ee549249f8d274b0a52fa9e/artifacts
+end_time: 1760997850877
+entry_point_name: ''
+experiment_id: '284003530451230930'
+lifecycle_stage: active
+run_id: 6bedb1032ee549249f8d274b0a52fa9e
+run_name: valuable-bear-1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760997838861
+status: 4
+tags: []
+user_id: choclo

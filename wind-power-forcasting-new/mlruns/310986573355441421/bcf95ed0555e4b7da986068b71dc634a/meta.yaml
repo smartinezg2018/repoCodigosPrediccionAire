@@ -1,0 +1,14 @@
+artifact_uri: file:///home/choclo/Documents/repoCodigosPrediccionAire/wind-power-forcasting-new/mlruns/310986573355441421/bcf95ed0555e4b7da986068b71dc634a/artifacts
+end_time: 1760997657167
+entry_point_name: ''
+experiment_id: '310986573355441421'
+lifecycle_stage: active
+run_id: bcf95ed0555e4b7da986068b71dc634a
+run_name: angry-lamb-714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760997656976
+status: 4
+tags: []
+user_id: choclo

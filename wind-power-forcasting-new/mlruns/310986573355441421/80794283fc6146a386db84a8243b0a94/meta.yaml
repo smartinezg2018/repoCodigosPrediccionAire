@@ -1,0 +1,14 @@
+artifact_uri: file:///home/choclo/Documents/repoCodigosPrediccionAire/wind-power-forcasting-new/mlruns/310986573355441421/80794283fc6146a386db84a8243b0a94/artifacts
+end_time: 1760996964219
+entry_point_name: ''
+experiment_id: '310986573355441421'
+lifecycle_stage: active
+run_id: 80794283fc6146a386db84a8243b0a94
+run_name: dazzling-sloth-292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760996964094
+status: 4
+tags: []
+user_id: choclo

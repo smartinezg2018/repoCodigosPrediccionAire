@@ -1,0 +1,14 @@
+artifact_uri: file:///home/choclo/Documents/repoCodigosPrediccionAire/wind-power-forcasting-new/mlruns/284003530451230930/92cb1acbabc844d4b7bb5c7560f9ad34/artifacts
+end_time: 1760997081053
+entry_point_name: ''
+experiment_id: '284003530451230930'
+lifecycle_stage: active
+run_id: 92cb1acbabc844d4b7bb5c7560f9ad34
+run_name: big-calf-69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760997068457
+status: 4
+tags: []
+user_id: choclo

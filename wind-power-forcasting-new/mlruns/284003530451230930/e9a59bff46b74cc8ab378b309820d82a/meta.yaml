@@ -1,0 +1,14 @@
+artifact_uri: file:///home/choclo/Documents/repoCodigosPrediccionAire/wind-power-forcasting-new/mlruns/284003530451230930/e9a59bff46b74cc8ab378b309820d82a/artifacts
+end_time: 1760996961514
+entry_point_name: ''
+experiment_id: '284003530451230930'
+lifecycle_stage: active
+run_id: e9a59bff46b74cc8ab378b309820d82a
+run_name: hilarious-lark-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760996947927
+status: 4
+tags: []
+user_id: choclo

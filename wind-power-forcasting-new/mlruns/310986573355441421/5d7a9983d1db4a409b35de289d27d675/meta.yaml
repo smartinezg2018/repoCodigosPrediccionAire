@@ -1,0 +1,14 @@
+artifact_uri: file:///home/choclo/Documents/repoCodigosPrediccionAire/wind-power-forcasting-new/mlruns/310986573355441421/5d7a9983d1db4a409b35de289d27d675/artifacts
+end_time: 1760996964220
+entry_point_name: ''
+experiment_id: '310986573355441421'
+lifecycle_stage: active
+run_id: 5d7a9983d1db4a409b35de289d27d675
+run_name: clean-rat-790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760996964074
+status: 4
+tags: []
+user_id: choclo
