@@ -4,3 +4,9 @@
 [submodule "Wind-Power-Prediction"]
 	path = Wind-Power-Prediction
 	url = https://github.com/VishalVasoya1/Wind-Power-Prediction.git
+[submodule "ML-Models_for_Wind_Speed_Forecast"]
+	path = ML-Models_for_Wind_Speed_Forecast
+	url = https://github.com/swayamjitsaha/ML-Models_for_Wind_Speed_Forecast
+[submodule "greek-solar-wind-energy-forecasting"]
+	path = greek-solar-wind-energy-forecasting
+	url = https://github.com/intelligence-csd-auth-gr/greek-solar-wind-energy-forecasting
