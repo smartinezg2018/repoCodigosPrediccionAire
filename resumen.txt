@@ -1,4 +1,0 @@
-greek-solar-wind-energy-forecasting:
-
-Archivos:
-    imports.py librerias usadas
