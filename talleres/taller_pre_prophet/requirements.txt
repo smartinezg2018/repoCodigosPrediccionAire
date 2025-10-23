@@ -1,0 +1,8 @@
+numpy
+pandas
+pandasql
+matplotlib
+seaborn
+python-dateutil
+holidays
+prophet
