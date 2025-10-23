@@ -1,2 +1,5 @@
+Prophet article:
 https://medium.com/data-science/getting-started-predicting-time-series-data-with-facebook-prophet-c74ad3040525
+Forcasting prophet and fourier:
+https://www.youtube.com/watch?v=hht0iKzviWE&t=717s 
 
