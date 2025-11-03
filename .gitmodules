@@ -10,3 +10,6 @@
 [submodule "greek-solar-wind-energy-forecasting"]
 	path = greek-solar-wind-energy-forecasting
 	url = https://github.com/intelligence-csd-auth-gr/greek-solar-wind-energy-forecasting
+[submodule "Youtube"]
+	path = Youtube
+	url = https://github.com/egorhowell/Youtube.git
