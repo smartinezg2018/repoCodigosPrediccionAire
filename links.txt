@@ -2,4 +2,7 @@ Prophet article:
 https://medium.com/data-science/getting-started-predicting-time-series-data-with-facebook-prophet-c74ad3040525
 Forcasting prophet and fourier:
 https://www.youtube.com/watch?v=hht0iKzviWE&t=717s 
+Libros sobre modelos conocidos y explicativos:
+https://learning.oreilly.com/library/view/modern-time-series/9781803246802/B17959_04.xhtml#_idParaDest-99
+https://learning.oreilly.com/library/view/time-series-forecasting/9781617299889/Text/IFC.htm
 
