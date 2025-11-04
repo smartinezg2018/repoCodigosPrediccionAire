@@ -5,4 +5,5 @@ https://www.youtube.com/watch?v=hht0iKzviWE&t=717s
 Libros sobre modelos conocidos y explicativos:
 https://learning.oreilly.com/library/view/modern-time-series/9781803246802/B17959_04.xhtml#_idParaDest-99
 https://learning.oreilly.com/library/view/time-series-forecasting/9781617299889/Text/IFC.htm
-
+implementación desde 0 del modelo ARIMA
+https://burakayy.com/blog/tag/arima/
